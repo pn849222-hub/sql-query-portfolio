@@ -1,5 +1,5 @@
 # SQL Query Portfolio - Superstore Dataset
-# Author: [Your Name]
+# Author: [BenDTA]
 # Description: Load CSV data into SQLite and run business queries
 
 import sqlite3
