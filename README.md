@@ -44,7 +44,7 @@ demonstrating skills from basic aggregations to advanced analysis using SQLite.
 ## ⚙️ How to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/sql-query-portfolio.git
+git clone https://github.com/pn849222-hub/sql-query-portfolio.git
 cd sql-query-portfolio
 
 # 2. Install dependencies
