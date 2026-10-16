@@ -1,5 +1,5 @@
 # SQL Query Portfolio - Superstore Business Questions
-# Author: [BenDTA]
+# Author: Nguyen Vu Truong Phuc
 # 10 queries from basic to advanced
 
 import sqlite3

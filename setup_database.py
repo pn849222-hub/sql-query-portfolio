@@ -1,5 +1,5 @@
 # SQL Query Portfolio - Superstore Dataset
-# Author: [BenDTA]
+# Author: Nguyen Vu Truong Phuc
 # Description: Load CSV data into SQLite and run business queries
 
 import sqlite3
